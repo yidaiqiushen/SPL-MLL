@@ -19,8 +19,8 @@ Different from existing methods which separate the landmark selection and landma
 This repository contains a subset of the experiments mentioned in the paper.
 
 ## Testing
-Enter to the path /model/src, and you can simply run the code in the following way:
-python main.py --load=False
+Enter to the path /model/src, and you can simply run the code in the following way:  
+    python main.py --load=False
 
 
 
