@@ -24,9 +24,16 @@ Enter to the path /model/src, and you can simply run the code in the following w
   `python main.py --load=True`
   
 ## Training
-Enter to the path /model/src, and you can simply run the code in the following way:  
+Enter to the path /model/src, and you can adjust some hyperparameters in `parser.py` and run the code in the following way:  
 
   `python main.py --load=False`
+  
+## Citation
+If you find that SPL-MLL helps your research, please cite our paper.
+
+## Questions
+For any additional questions, feel free to email lijunbing@tju.edu.cn.
+
   
  
 
