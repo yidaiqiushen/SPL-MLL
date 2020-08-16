@@ -1,5 +1,5 @@
 # SPL-MLL ：SPL-MLL: Selecting Predictable Landmarks for Multi-Label Learning
-A TensorFlow implementation of the paper ["SPL-MLL ：SPL-MLL: Selecting Predictable Landmarks for Multi-Label Learning"](https://github.com/yidaiqiushen/SPL-MLL/blob/master/paper/SPL-MLL.pdf), ECCV2020.
+A TensorFlow implementation of the paper ["SPL-MLL : SPL-MLL: Selecting Predictable Landmarks for Multi-Label Learning"](https://github.com/yidaiqiushen/SPL-MLL/blob/master/paper/SPL-MLL.pdf), ECCV2020.
 
 ## Framework
 ![avatar](https://github.com/yidaiqiushen/SPL-MLL/blob/master/Framework/Framework.png)
