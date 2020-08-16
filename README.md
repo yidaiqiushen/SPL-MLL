@@ -2,7 +2,7 @@
 A TensorFlow implementation of the paper "SPL-MLL ：SPL-MLL: Selecting Predictable Landmarks for Multi-Label Learning", ECCV2020.
 
 ## Framework
-![avatar](D:\ECCV20_code\SPL-MLL\SPL-MLL\Framework\Framework.png)
+![avatar](https://github.com/yidaiqiushen/SPL-MLL/blob/master/Framework/Framework.png)
 
 ## Requirements
 - TensorFlow 1.3+  
