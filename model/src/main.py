@@ -30,7 +30,7 @@ class Model(object):
         self.train = self.net.train_step(self.loss)
         self.B = self.net.B
         self.A = self.net.A
-        self.n_epoch_to_decay = list(range(790, 20000, 1000))[::-1]
+        self.n_epoch_to_decay = list(range(800, 20000, 1000))[::-1]
         self.next_epoch_to_decay = self.n_epoch_to_decay.pop()
         self.saver = tf.train.Saver()
         self.init = tf.global_variables_initializer()
