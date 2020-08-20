@@ -30,7 +30,7 @@ Enter to the path /model/src, and you can adjust some hyperparameters in `parser
   `python main.py --load=False`
   
 ## Citation
-If you find that SPL-MLL helps your research, please cite our paper.
+If you find that SPL-MLL helps your research, please cite our paper in the future.
 
 ## Questions
 For any additional questions, feel free to email lijunbing@tju.edu.cn.
