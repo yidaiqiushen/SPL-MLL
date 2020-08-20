@@ -1,4 +1,4 @@
-# SPL-MLL ：SPL-MLL: Selecting Predictable Landmarks for Multi-Label Learning
+# SPL-MLL ：Selecting Predictable Landmarks for Multi-Label Learning
 A TensorFlow implementation of the paper ["SPL-MLL : SPL-MLL: Selecting Predictable Landmarks for Multi-Label Learning"](https://arxiv.org/pdf/2008.06883.pdf), ECCV2020.
 
 ## Framework
