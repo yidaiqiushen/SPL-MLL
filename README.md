@@ -30,12 +30,14 @@ The optimization of this code is without the Alternating Direction Minimization(
 ## Citation
 If you find that SPL-MLL helps your research, please cite our paper.
 
-`@inproceedings{li2020_landmark,
-	title={SPL-MLL: Selecting Predictable Landmarks forMulti-Label Learning},\\	
-	author={Li, Junbing and Zhang, Changqing and Zhu, Pengfei and Wu, Baoyuan and Hu, Qinghua},\\
-	booktitle={European Conference on Computer Vision (ECCV)},\\
+`
+@inproceedings{li2020_landmark,
+	title={SPL-MLL: Selecting Predictable Landmarks forMulti-Label Learning},	
+	author={Li, Junbing and Zhang, Changqing and Zhu, Pengfei and Wu, Baoyuan and Hu, Qinghua},
+	booktitle={European Conference on Computer Vision (ECCV)},
 	year={2020},
-}`
+}
+`
 
 ## Questions
 For any additional questions, feel free to email lijunbing@tju.edu.cn.
