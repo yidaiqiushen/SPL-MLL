@@ -18,19 +18,25 @@ Different from existing methods which separate the landmark selection and landma
 
 ## Example Experiments
 This repository contains a subset of the experiments mentioned in the paper.
-
-## Testing
-Enter to the path /model/src, and you can simply run the code in the following way:  
-
-  `python main.py --load=True`
-  
+ 
 ## Training
 Enter to the path /model/src, and you can adjust some hyperparameters in `parser.py` and run the code in the following way:  
 
   `python main.py --load=False`
-  
+
+## Notice
+The optimization of this code is without the Alternating Direction Minimization(ADM) strategy. For simplicity, the objective function is passed directly into the Tensorflow optimizer for updating different blocks of variables.
+ 
 ## Citation
 If you find that SPL-MLL helps your research, please cite our paper.
+
+@inproceedings{li2020landmark,
+	title={SPL-MLL: Selecting Predictable Landmarks for
+	Multi-Label Learning},
+	author={Li, Junbing and Zhang, Changqing and Zhu, Pengfei and Wu, Baoyuan and Hu, Qinghua},
+	booktitle={ECCV},
+	year={2020},
+}
 
 ## Questions
 For any additional questions, feel free to email lijunbing@tju.edu.cn.
