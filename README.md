@@ -25,7 +25,7 @@ Enter to the path /model/src, and you can adjust some hyperparameters in `parser
   `python main.py --load=False`
 
 ## Notice
-The optimization of this code is without the Alternating Direction Minimization(ADM) strategy. For simplicity, the objective function is passed directly into the Tensorflow optimizer for updating different blocks of variables.
+The optimization of this code is without the Alternating Direction Minimization (ADM) strategy. For simplicity, the objective function is passed directly into the Tensorflow-Adam optimizer for updating different blocks of variables.
  
 ## Citation
 If you find that SPL-MLL helps your research, please cite our paper.
